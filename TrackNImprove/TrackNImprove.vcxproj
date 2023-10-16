@@ -127,7 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataManager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PersonalTrackerApp.cpp" />
+    <ClCompile Include="UserAuth.cpp" />
     <ClCompile Include="TrackNImprove.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DailyInformation.h" />
+    <ClInclude Include="DataManager.h" />
+    <ClInclude Include="PersonalTrackerApp.h" />
+    <ClInclude Include="UserAuth.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

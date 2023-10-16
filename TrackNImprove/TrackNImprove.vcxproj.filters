@@ -18,5 +18,31 @@
     <ClCompile Include="TrackNImprove.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="UserAuth.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonalTrackerApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UserAuth.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataManager.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DailyInformation.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonalTrackerApp.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
